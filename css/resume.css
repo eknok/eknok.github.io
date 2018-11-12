@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans','Sawarabi Gothic', serif;
+  font-family: 'Saira Extra Condensed', 'M PLUS Rounded 1c', sans-serif;
   padding-top: 54px;
   color: #868e96;
 }
@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed','Sawarabi Gothic', serif;
+  font-family: 'Saira Extra Condensed', 'M PLUS Rounded 1c', sans-serif;
   font-weight: 700;
   color: #343a40;
 }
@@ -59,7 +59,10 @@ h2 {
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
-  text-transform: uppercase;
+}
+
+.mailto {
+  text-decoration: none;
 }
 
 @media (min-width: 992px) {
