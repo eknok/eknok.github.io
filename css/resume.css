@@ -58,7 +58,9 @@ h2 {
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
-  font-weight: 600;
+  font-weight: 500;
+  font-size: 25px;
+  letter-spacing: 1px;
 }
 
 .mailto {
